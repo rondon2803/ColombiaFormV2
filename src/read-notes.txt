@@ -1,0 +1,7 @@
+con htmlfor elijo el label y se marca el input 
+todo tiene que llevar ; en formlario js
+despues ocultar las cosas que no quieres que se muestren por default
+el span es para que abarque 2 columnas
+no puedes importar dos veces el mismo objeto con el mismo nombre
+
+definimos los estados para saber como validar lo que escriba el usuario

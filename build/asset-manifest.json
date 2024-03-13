@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e036572.css",
+    "main.js": "/static/js/main.6f6bfa32.js",
+    "static/media/header.jpg": "/static/media/header.d3786c610c98755a2ff9.jpg",
+    "static/media/botes.jpg": "/static/media/botes.9c4663fe83021eee1544.jpg",
+    "static/media/greenpeace-green.svg": "/static/media/greenpeace-green.47990269716634a42d44e43211064529.svg",
+    "static/media/404images.jpg": "/static/media/404images.ec5e73bdc451ad1876ff.jpg",
+    "index.html": "/index.html",
+    "main.3e036572.css.map": "/static/css/main.3e036572.css.map",
+    "main.6f6bfa32.js.map": "/static/js/main.6f6bfa32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e036572.css",
+    "static/js/main.6f6bfa32.js"
+  ]
+}
